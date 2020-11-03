@@ -33,6 +33,6 @@ The main loop takes place in this scene. Here you can find the prefabs, animatio
 
 - FallDeath: it is added to a game object located under the screen with a collider set as trigger. The only method activates the death screen and deactivate player.
 
-You can see the results in the next youtube video:
+You can see the results in the next youtube video: https://www.youtube.com/watch?v=h6nRnFRezlw&ab_channel=JohhaannDev
 
 Assets from: https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack
